@@ -171,7 +171,7 @@ Java
 
 ---
 
-## 🏅 Coding Profiles
+## 🏅 Other Profiles
 
 <div align="center">
 
