@@ -162,7 +162,7 @@ Java
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangat001&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Rangat001&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
