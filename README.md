@@ -158,7 +158,7 @@ Java
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rangat001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangat001&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Rangat001&show_icons=true&theme=radical"/>
 </div>
 
 <div align="center">
